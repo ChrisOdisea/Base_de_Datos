@@ -9,9 +9,17 @@ Ejercicio:
 
 1. ¿Qué es un DataWarehouse?(valor 2)
 
+         es un sistema que agrega y combina información de diferentes fuentes en un almacén de datos único y centralizado; 
+         consistente para respaldar el análisis empresarial, la minería de datos, inteligencia artificial (IA) y Machine Learning.
+
 2. Realiza un diseño del modelo en estrella (valor 2)
 
+![image](https://user-images.githubusercontent.com/101351242/171661320-ca32e73d-1362-4d46-a249-98e994111116.png)
+
+
 3. Realiza un diseño del modelo copo de nieve (valor 2)
+4. 
+![copodenieve](https://user-images.githubusercontent.com/101351242/171662076-d2644fbe-78d8-4fe7-b553-3abbe485def8.png)
 
 
 ## Práctica 7
@@ -37,6 +45,7 @@ datos que se solicitan. (valor 4.5)
 precio medio y el número total de productos de los fabricantes que tienen un precio
 medio superior a 200€. Es necesario mostrar el nombre del fabricante. (valor 4.5)
 
+https://www.db-fiddle.com/f/ahupNzBgHJzL5FqPBertcf/4
 
 ## Práctica 8.
 ### Disparadores (Triggers)
